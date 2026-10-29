@@ -4,9 +4,6 @@
 
 ## Work Experience
 
-### Kinel Academy | Lagos, Nigeria (Remote)
-**Data Analytics Tutor** | October 2026 – Present
-
 ### Lenicle Academy | Lagos, Nigeria
 **Data Analytics Tutor** | November 2025 – Present
 
