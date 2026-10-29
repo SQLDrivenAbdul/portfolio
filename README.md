@@ -15,3 +15,5 @@
 **Technical Writer** | November 2025 – Present
 
 - Contribute technical articles to freeCodeCamp, translating complex data analytics concepts into clear, practical, and beginner-friendly content that makes technical knowledge more accessible to aspiring data professionals.
+
+## Projects
