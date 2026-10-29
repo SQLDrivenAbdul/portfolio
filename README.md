@@ -17,3 +17,6 @@
 - Contribute technical articles to freeCodeCamp, translating complex data analytics concepts into clear, practical, and beginner-friendly content that makes technical knowledge more accessible to aspiring data professionals.
 
 ## Projects
+### [Suez Canal Disruption: Maritime Logistics Analysis](https://github.com/SQLDrivenAbdul/The-Impact-of-Suez-Canal-Disruption-of-Global-Maritimes-Solutions)
+
+Analyzed the impact of the March 2021 Suez Canal disruption on maritime cargo movements using SQL Server and Power BI. Investigated changes in average movement duration across regional hubs, compared performance before and after the incident, and explored patterns that could indicate operational recovery. Presented the findings through SQL analysis and data visualizations to help stakeholders understand the disruption's potential impact on maritime operations.
