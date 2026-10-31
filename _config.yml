@@ -1,5 +1,9 @@
 title: Abdullah Rufai
+
 logo: "https://raw.githubusercontent.com/SQLDrivenAbdul/portfolio/main/Gemini_Generated_Image_9dzotv9dzotv9dzo.jfif"
-#description: text below image
-#show_downloads: true
+
+description: Data Analyst | SQL | Power BI | Data Storytelling
+
+show_downloads: false
+
 theme: jekyll-theme-minimal
